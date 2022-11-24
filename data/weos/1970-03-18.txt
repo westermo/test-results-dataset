@@ -1,0 +1,4 @@
+word1268 1
+word2540 3
+word3774 1
+word9486 2

@@ -1,0 +1,8 @@
+word1925 8
+word2332 2
+word3048 2
+word3512 3
+word4657 5
+word4988 2
+word7556 6
+word9486 3

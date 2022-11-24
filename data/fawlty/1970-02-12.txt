@@ -1,0 +1,12 @@
+word1521 1
+word2672 2
+word4657 5
+word6303 2
+word6773 1
+word7035 5
+word7060 2
+word7862 1
+word8267 1
+word8779 1
+word9486 4
+word9885 5

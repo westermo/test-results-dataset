@@ -1,0 +1,4 @@
+word1212 1
+word2089 1
+word8086 3
+word9486 2

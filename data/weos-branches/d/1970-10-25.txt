@@ -1,0 +1,5 @@
+word1770 2
+word5370 1
+word6885 1
+word7045 1
+word7569 2

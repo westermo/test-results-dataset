@@ -1,0 +1,6 @@
+word1909 1
+word2089 1
+word3245 2
+word5370 2
+word5948 6
+word8267 1
