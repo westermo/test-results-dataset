@@ -1,0 +1,5 @@
+word1834 4
+word3051 2
+word3451 3
+word9361 3
+word9419 4

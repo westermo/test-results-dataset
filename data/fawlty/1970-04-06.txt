@@ -1,0 +1,5 @@
+word3001 1
+word4657 1
+word5083 2
+word7561 2
+word9486 3

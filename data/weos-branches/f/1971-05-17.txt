@@ -1,0 +1,5 @@
+word2540 1
+word4283 2
+word6303 1
+word8927 1
+word9662 1

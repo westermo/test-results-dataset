@@ -1,0 +1,8 @@
+word2973 2
+word3670 1
+word4053 2
+word4410 1
+word4657 2
+word4911 1
+word6355 2
+word9486 1

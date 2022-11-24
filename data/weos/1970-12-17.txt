@@ -1,0 +1,5 @@
+word2089 2
+word3142 6
+word5254 1
+word9230 4
+word9486 2

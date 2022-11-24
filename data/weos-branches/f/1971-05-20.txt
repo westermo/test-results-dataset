@@ -1,0 +1,5 @@
+word1527 1
+word1782 1
+word2003 3
+word5083 2
+word5142 1

@@ -1,0 +1,8 @@
+word3512 3
+word4331 4
+word4594 2
+word4657 2
+word5277 1
+word7671 2
+word9399 2
+word9486 4

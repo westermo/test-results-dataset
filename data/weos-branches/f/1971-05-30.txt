@@ -1,0 +1,10 @@
+word1268 1
+word2089 1
+word3604 9
+word5370 1
+word5602 1
+word6294 1
+word7845 3
+word8021 4
+word9720 33
+word9867 19

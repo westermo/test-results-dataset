@@ -1,0 +1,12 @@
+word1638 10
+word2496 1
+word3604 7
+word3774 10
+word4657 11
+word6303 1
+word6679 1
+word6773 1
+word7341 1
+word9012 1
+word9486 2
+word9905 1

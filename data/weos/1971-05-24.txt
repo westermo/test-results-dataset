@@ -1,0 +1,16 @@
+word1629 2
+word1637 1
+word1909 1
+word2089 1
+word3604 16
+word5083 2
+word5832 1
+word5854 14
+word6708 1
+word7845 2
+word8021 2
+word8746 2
+word8927 1
+word9486 4
+word9720 32
+word9867 17

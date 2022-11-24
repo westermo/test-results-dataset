@@ -1,0 +1,6 @@
+word1629 1
+word2089 1
+word2208 3
+word3386 1
+word8353 3
+word8781 1

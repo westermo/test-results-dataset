@@ -1,0 +1,7 @@
+word2540 4
+word3604 6
+word4283 2
+word4808 3
+word5277 1
+word9486 2
+word9867 2

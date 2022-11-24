@@ -1,0 +1,10 @@
+word1925 6
+word1975 6
+word3370 1
+word3402 6
+word4657 8
+word6773 1
+word7677 4
+word8851 6
+word9486 2
+word9614 6
